@@ -1,0 +1,27 @@
+.first {
+    background:linear-gradient(to bottom, #00d2ff, #928dab); padding: 2rem;
+}
+
+.second {
+    background:linear-gradient(to bottom, #928dab, #00d2ff); 
+}
+
+.third {
+    background:linear-gradient(to bottom, #928dab, #00d2ff); 
+}
+
+.fourth {
+    background:linear-gradient(to bottom, #928dab, #00d2ff); 
+}
+
+.five {
+    background:linear-gradient(to bottom, #00d2ff, #928dab); padding: 2rem;
+}
+
+.six {
+    background:linear-gradient(to bottom, #302e87, #00d2ff);
+}
+
+.seven {
+    background:linear-gradient(to bottom, #302e87, #00d2ff);
+}
